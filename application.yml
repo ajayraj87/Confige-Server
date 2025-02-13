@@ -1,3 +1,7 @@
+speing:
+  application:
+    name: "Config default"
+
 eureka:
   instance:
     prefer-ip-address: true
@@ -6,6 +10,4 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
-speing:
-  application:
-    name: "Config default"
+
