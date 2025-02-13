@@ -1,4 +1,4 @@
-speing:
+spring:
   application:
     name: "Config default"
 
